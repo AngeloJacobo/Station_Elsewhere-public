@@ -1,0 +1,18 @@
+{
+  "name": "Station Elsewhere",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "hostRequirements": { "cpus": 4 },
+  "postCreateCommand": "bash tools/setup_linux.sh",
+  "postAttachCommand": { "Station Elsewhere": "bash start.sh" },
+  "forwardPorts": [8767],
+  "portsAttributes": {
+    "8767": { "label": "Station Elsewhere", "onAutoForward": "openBrowser" }
+  },
+  "secrets": {
+    "CARTESIA_API_KEY": { "description": "Optional: your Cartesia API key, for Cartesia narration voices." },
+    "ELEVENLABS_API_KEY": { "description": "Optional: your ElevenLabs API key." }
+  }
+}

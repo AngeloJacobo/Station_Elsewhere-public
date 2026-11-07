@@ -1,0 +1,7 @@
+# Linux / GitHub Codespaces (installed by tools/setup_linux.sh into .venv).
+# The same versions as the Windows install this project was made with. No Kokoro here: voices come from Cartesia.
+fastapi==0.162.0
+uvicorn==0.54.0
+python-multipart==0.0.33
+soundfile==0.14.0
+numpy==2.5.4

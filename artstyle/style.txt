@@ -1,0 +1,10 @@
+# The art style for every generated image (replaces the built-in flat-cartoon style).
+# Write it as plain sentences; lines are joined together. Lines starting with # are ignored.
+# Delete this file to go back to the built-in style.
+Vintage late-1980s / 1990s anime character design rendered as a colored-pencil sketchbook illustration, closely matching the colored-pencil reference images in this folder.
+Draw people, objects and backgrounds with visible directional colored-pencil strokes, delicate layered hatching, softly irregular graphite or brown-pencil contours and naturally uneven pigment coverage. Let warm paper show through lighter areas. Keep faces readable and pencil marks restrained rather than equally dense everywhere.
+Use warm cream drawing paper with a subtle visible tooth. Texture should follow the drawing strokes and materials, with gently worn edges and a matte finish. Avoid heavy ink contours, hard-edged cel shading, uniform digital grain overlays and glossy airbrushed surfaces.
+Use a limited, gently faded palette of dusty periwinkle, slate and indigo blue, muted olive, soft ochre, terracotta, warm amber, cream and peach. Balance soft warm light with cool shadows; use pencil layering for shaded transitions.
+People are clearly young adults aged 20 to 30, with natural adult head-to-body proportions, youthful adult facial features, restrained almond-shaped eyes and quiet believable expressions. Preserve simplified vintage anime features and softly drawn hair. Clothing is plain and lived-in: loose shirts, knit sweaters, cardigans and coats.
+Build rich, observed everyday settings with selective tactile detail: worn wood, folded fabric, ceramics, books, foliage and soft reflections. Group background details into calm shapes so the main subject reads immediately on a phone.
+Keep the mood intimate, nostalgic and calming, with gentle lighting and everyday human warmth. Allow peaceful, affectionate, thoughtful or lightly playful scenes, with breathing room around the subject.

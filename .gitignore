@@ -1,0 +1,38 @@
+# Per-PC setup (recreated automatically on each computer)
+.venv/
+config.json
+python_path.txt
+series_style.json
+ffmpeg/
+models/
+# Windows fonts copied from C:\Windows\Fonts are licensed to your PC: use them, never commit them.
+fonts/consola*.ttf
+fonts/segoeui*.ttf
+fonts/arial*.ttf
+
+# Your own content and settings: private, never committed
+my_defaults.json
+reels_history.md
+facebook_posts.json
+media/*
+!media/.gitkeep
+projects/*
+!projects/.gitkeep
+exports/*
+!exports/.gitkeep
+artstyle/*.png
+artstyle/*.jpg
+artstyle/*.jpeg
+artstyle/*.webp
+overlays/*
+!overlays/.gitkeep
+*.env
+.env*
+
+# Caches, previews and build output
+workspace/
+luts/*
+!luts/.gitkeep
+dist/
+__pycache__/
+*.pyc
